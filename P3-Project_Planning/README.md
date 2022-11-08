@@ -18,7 +18,7 @@ For this assignment, you'll create some initial plans for your project.
 
 
 ### Project Tracker
-[Trello](https://trello.com/b/xchiE6wX/liftoff-project-cocktail-library)
+![Trello](https://trello.com/b/xchiE6wX/liftoff-project-cocktail-library)
 
 ### Project Repo Link
 
