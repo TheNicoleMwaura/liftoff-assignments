@@ -8,12 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 [Wireframes Overview](https://miro.com/app/board/uXjVPHZazTM=/)
-[Registration]
-[Login]
-[Create Recipes]
-[Search Recipes]
-[List Recipes]
-[Update Recipes]
+
 
 
 
