@@ -7,8 +7,15 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
+[Wireframes Overview](https://miro.com/app/board/uXjVPHZazTM=/)
+[Registration]
+[Login]
+[Create Recipes]
+[Search Recipes]
+[List Recipes]
+[Update Recipes]
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+
 
 ### Project Tracker
 
